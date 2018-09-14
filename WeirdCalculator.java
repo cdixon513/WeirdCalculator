@@ -12,7 +12,7 @@ public class WeirdCalculator{
 		System.out.printf("%15s", "Sum:");
 		System.out.printf("%10d\n", num1 + num2);
 		System.out.printf("%15s", "Difference:");
-		System.out.printf("%10d\n", num1 / num2);
+		System.out.printf("%10d\n", num1 - num2);
 		System.out.printf("%15s", "Product:");
 		System.out.printf("%10d\n", num1 * num2);
 		System.out.printf("%15s", "Average:");
